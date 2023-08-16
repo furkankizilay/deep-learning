@@ -1,0 +1,3 @@
+# Deep Residual Problem
+
+A deep residual network (ResNet) is a type of neural network architecture designed to tackle the challenges of training very deep networks. It introduces the concept of residual blocks, which allow the network to learn the difference between input and output, making it easier to train deep models by mitigating issues like vanishing gradients. ResNet's skip connections enable the learning of residual functions, leading to highly effective training of architectures with many layers. This architecture has significantly advanced computer vision tasks by achieving state-of-the-art results in image classification, object detection, and more.

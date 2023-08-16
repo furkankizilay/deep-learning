@@ -1,0 +1,3 @@
+# Transfer Learning
+
+Transfer learning is a machine learning technique where a pre-trained model developed for one task is adapted and fine-tuned to perform a different but related task. Instead of training a model from scratch, transfer learning leverages the knowledge learned by a model on a large dataset and transfers that knowledge to a new task with a smaller dataset. This approach can lead to faster and more effective training, as the model has already learned useful features and patterns from the initial task. It's particularly valuable when the new task has limited data available, as the pre-trained model's features can be generalized to the new problem domain.
